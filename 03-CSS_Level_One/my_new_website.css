@@ -1,0 +1,31 @@
+h2{
+  text-align: center;
+  font-family: 'Akronim', cursive;
+}
+td{
+  width:150px;
+  height:300px;
+}
+
+#art{
+  margin:auto;
+}
+
+td{
+  border:2px solid white;
+}
+.one{
+  background-color:#3D0814;
+}
+.two{
+  background-color:#E7F9A9;
+}
+.three{
+  background-color:#C6B38E;
+}
+.four{
+  background-color:#9A9B73;
+}
+.five{
+  background-color:#442F38;
+}
